@@ -11,4 +11,5 @@ Prior to accepting your pull request we will verify your plugin:
 * Is published to DockerHub
 
 [1] see **plugin manifest** section in http://readme.drone.io/plugin/publish.html
+
 [2] see **plugin documentation** section in //readme.drone.io/plugin/publish.html
