@@ -1,0 +1,5 @@
+# This file lists all third party plugins that get displayed
+# on the drone plugin website. Add your plugin repsotiroy name
+# below on its own line.
+
+github.com/drone-webhook
