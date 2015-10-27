@@ -1,5 +1,3 @@
-List of third-party plugins available for Drone.
-
 Submit a pull request to add your plugin to the list. By adding your plugin to the list your plugin will be listed on the plugin marketplace website, at http://addons.drone.io
 
 Prior to accepting your pull request we will verify your plugin:
